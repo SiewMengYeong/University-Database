@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\siew\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-240fb26a916b2f3e47797db43ab4d4931750f922.jar" />
+    </item>
+    <item
+        jar="C:\Users\siew\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\pre-dexed\debug\library-1.0.19-80522234f83c3fab807ad27fc52efe0833b5793a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\pre-dexed\debug\classes-f1af5faf35561dbc9df4b6f4ca8890423933a679.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\pre-dexed\debug\classes-f3a71c4cdea9fc2b25c6cd9ef6db9406009fd587.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\AndroidStudioProjects\UniversityDatabase\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-8a16ed147016f445e87b362740ff79cfc40d97c4.jar" />
+    </item>
+
+</items>
